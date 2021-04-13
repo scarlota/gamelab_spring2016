@@ -1,6 +1,5 @@
 
 <h1>Welcome to the <i>Rot It!</i> game</h1>
-- Download the folder <i>Rot It game!</i> for playing our game. <i>RotItGame.exe</i> starts the game on Windows. Play with Xbox controllers.<br>
 - Download <i>Rot It! Instructions.pdf</i> for reading more about the game.
 <br><br>June 2016. Game Programming Laboratory semester course at ETH Zürich.<br>
 /!\/!\ Watch our trailer: https://youtu.be/nNNrX3dKA5U
